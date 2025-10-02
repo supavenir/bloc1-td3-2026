@@ -18,8 +18,6 @@ Durée indicative: 4 h
 ---
 
 ### 📦 Organisation du repository
-- Le cas échéant, merger la branche du TD précédent.
-- Créer une branche dédiée: `td3`.
 - Travailler en local, puis commit/push régulièrement.
 - En fin de travaux, ouvrir une Pull Request vers `main` et mentionner `@jcheron` pour la revue.
 
